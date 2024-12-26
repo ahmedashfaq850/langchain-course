@@ -9,8 +9,16 @@
     - Models
     - Output parsers
 
-### Module 2: LangChain Memory
-- ConversationBufferMemory
-- ConversationBufferWindowMemory
-- ConversationTokenBufferMemory
-- ConversationSummaryMemory
+### Module 2: Memory in LangChain
+- Conversation Buffer Memory
+- Conversation Buffer Window Memory
+- Conversation TokenBuffer Memory
+- Conversation Summary Memory
+
+
+### Module 3: Chains in LangChain
+- LLMChain
+- Sequential Chains
+   - Simple Sequential Chain
+   - Sequential Chain
+- Router Chain
